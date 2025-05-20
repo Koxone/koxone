@@ -1,7 +1,7 @@
 # Hi, I'm Carlos (Koxone) 👋
 
 I am a passionate **Software Developer in training**, with strong foundations in **JavaScript**, **HTML5**, and **CSS3**.  
-Currently, I am advancing my skills by building projects using **React** and preparing for larger and more complex applications.
+Currently, I am advancing my skills by building projects using **React**, **Tailwind**, **Next** and preparing for larger and more complex applications.
 
 Currently, I am studying full-time to become a professional **Software Developer**, building projects that are clean, modular, and scalable.
 
@@ -22,7 +22,10 @@ Currently, I am studying full-time to become a professional **Software Developer
 
 - JavaScript (Vanilla)
 - HTML5 & CSS3 (Responsive Design, Flexbox, Grid, CSS Variables)
-- React (React Router, Hooks, Component Architecture)
+- SCSS
+- Tailwind
+- React.js (Hooks, Components, React Router, useState, useEffect)
+- Next.js 
 - Git & GitHub
 - Visual Studio Code
 
@@ -33,6 +36,7 @@ Currently, I am studying full-time to become a professional **Software Developer
 - Advanced JavaScript concepts (Closures, Hoisting, Shadowing, Strict Mode)
 - Full app refactors for scalability
 - Clean Architecture Principles
+- Learning Firebase (Hosting, Authentication)
 - First full portfolio deployment
 
 ---

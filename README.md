@@ -20,31 +20,37 @@ Currently, I am studying full-time to become a professional **Software Developer
 
 ## 🛠 Technologies
 
-- JavaScript (Vanilla)
-- HTML5 & CSS3 (Responsive Design, Flexbox, Grid, CSS Variables)
-- SCSS
-- Tailwind
-- React.js (Hooks, Components, React Router, useState, useEffect)
-- Next.js 
-- Git & GitHub
+- HTML5 & CSS3 (Responsive Design, Flexbox, Grid)
+- JavaScript (ES6+)
+- React.js (Hooks, Context, Routing)
+- Tailwind CSS
+- Next.js
+- ASTRO
+- Firebase (Authentication, Firestore, Hosting)
+- Figma
+- Git & Github
+- Linux (Terminal usage, File Structure)
 - Visual Studio Code
+- Gulp.js
+- Vite
+- npm
+- Sass/SCSS
 
 ---
 
 ## 📚 Current Focus
 
 - Advanced JavaScript concepts (Closures, Hoisting, Shadowing, Strict Mode)
-- Full app refactors for scalability
-- Clean Architecture Principles
-- Learning Firebase (Hosting, Authentication)
-- First full portfolio deployment
-
+- Learning backend development fundamentals
+- Building and integrating APIs
+- Understanding and applying Clean Architecture principles
+- Deepening knowledge of Firebase (Authentication, Firestore, Hosting)
 ---
 
 ## 📫 How to Reach Me
 
 - GitHub: [@Koxone](https://github.com/Koxone)
-- Portfolio: *Coming soon*
+- Portfolio: https://www.koxland.dev/
 - Email: admin@koxland.net
 
 ---

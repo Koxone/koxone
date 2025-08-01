@@ -1,58 +1,63 @@
 # Hi, I'm Carlos (Koxone) 👋
 
-I am a passionate **Software Developer in training**, with strong foundations in **JavaScript**, **HTML5**, and **CSS3**.  
-Currently building projects using **React**, **Tailwind**, **Next** and preparing for larger and more complex applications.
-
-Currently, I am studying full-time to become a professional **Software Developer**, building projects that are clean, modular, and scalable.
-
+I am a passionate **Software Developer**, specializing in **modern web development** with **React**, **Next.js**, **Tailwind CSS**, and **Shopify headless integration**.  
+Currently, I am focused on building **scalable applications** with clean, modular architectures and real-world functionality.
 
 ---
 
 ## 🚀 What I'm Working On
 
-- Building modular web apps with React
-- Managing app state with best practices
-- Designing scalable and maintainable project architectures
-- Deepening knowledge in TypeScript and Next.js
-- Preparing real-world portfolio projects
+- Developing a **headless e-commerce platform** integrated with **Shopify Storefront API**, **Firebase**, and **Clerk authentication**  
+- Building **modular and reusable components** for scalable applications  
+- Implementing **i18n (English/Spanish)** and **responsive UI/UX with animations** using **Framer Motion**  
+- Designing **performance-focused apps** with Next.js (App Router & Pages Router), Tailwind CSS v4, and Vercel deployment  
+- Learning **Godot** for game development (isometric pixel-art projects)  
 
 ---
 
 ## 🛠 Technologies
 
-- HTML5 & CSS3 (Responsive Design, Flexbox, Grid)
+### **Frontend**
+- HTML5, CSS3 (Flexbox, Grid, Responsive Design)
 - JavaScript (ES6+)
-- React.js (Hooks, Context, Routing)
-- Tailwind CSS
-- Next.js
-- ASTRO
+- React.js (Hooks, Context, Zustand, Routing)
+- Next.js (App Router & Pages Router)
+- Tailwind CSS v4
+- Astro
+
+### **E-Commerce & APIs**
+- Shopify Storefront & Admin API
 - Firebase (Authentication, Firestore, Hosting)
-- Figma
-- Git & Github
-- Linux (Terminal usage, File Structure)
+- Clerk Authentication
+- REST APIs & GraphQL
+
+### **Tools & Workflow**
+- Git & GitHub (Branches, Projects, Issues)
+- Vercel (Deployments, Custom Domains)
+- Figma (UI/UX Design)
+- Linux (Terminal & File Structure)
 - Visual Studio Code
-- Gulp.js
-- Vite
-- npm
-- Sass/SCSS
+- npm, Vite, Gulp.js, Sass/SCSS
 
 ---
 
 ## 📚 Current Focus
 
-- Advanced JavaScript concepts (Closures, Hoisting, Shadowing, Strict Mode)
-- Learning backend development fundamentals
-- Building and integrating APIs
-- Understanding and applying Clean Architecture principles
-- Deepening knowledge of Firebase (Authentication, Firestore, Hosting)
+- **Advanced React & Next.js patterns** (Context optimization, Zustand, modular architecture)  
+- **Building real-world e-commerce solutions** with Shopify (checkout, wishlist, cart, customer accounts)  
+- **Integrating APIs from scratch** (REST, GraphQL)  
+- **Clean Architecture & scalable project structure**  
+- **Internationalization (i18n)** and **UI animations with Framer Motion**  
+- **Game development basics in Godot (isometric resource-management games)**  
+
 ---
 
 ## 📫 How to Reach Me
 
-- GitHub: [@Koxone](https://github.com/Koxone)
-- Portfolio: https://www.koxland.dev/
-- Email: admin@koxland.net
+- **GitHub:** [@Koxone](https://github.com/Koxone)  
+- **Portfolio:** [koxland.dev](https://www.koxland.dev/)  
+- **Email:** admin@koxland.net  
 
 ---
 
-> \"Every line of code I write today is a foundation for the systems I will build tomorrow.\" 🚀
+> _"Every line of code I write today is a foundation for the systems I will build tomorrow."_ 🚀

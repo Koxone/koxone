@@ -1,21 +1,19 @@
 # Hi, I'm Carlos (Koxone) 👋
 
-I am a passionate **Software Developer**, specializing in **modern web development** with **React**, **Next.js**, **Tailwind CSS**, and **Shopify headless integration**.  
-Currently, I am focused on building **scalable applications** with clean, modular architectures and real-world functionality.
+I am a passionate Fullstack Product Engineer, focused on building scalable, production-ready applications with TypeScript, Next.js, and modern API-driven architectures.
+I am currently developing BeeHealth, a modular medical management platform, working extensively with MongoDB, REST APIs, and clean backend design, while expanding my knowledge in SQL, PostgreSQL, and Prisma to strengthen my data modeling skills.
 
 ---
 ## 🚀 What I'm Working On
 
-- Building **MedTrack / BeeHealth**, a modular **medical management platform** with clinical records, diets, workouts, inventory, appointments, timelines, and role-based access  
-- Developing a **headless e-commerce platform** integrated with **Shopify Storefront API**, **Clerk authentication**, and custom cart / order flows  
-- Designing **highly modular, feature-isolated architecture** following SOLID principles and vertical-slice organization  
-- Implementing **i18n (English / Spanish)** with fully translated components and structured JSON dictionaries  
-- Creating **performance-focused UIs** with Next.js (App Router & Pages Router), Tailwind CSS v4, and optimized data fetching using TanStack Query  
-- Integrating **Cloudinary** for media handling and **Firebase Firestore** for specific real-time and auxiliary data use cases  
-- Adding **polished animations and transitions** using Framer Motion for modals, lists, and feedback states  
-- Learning **Godot** for game development, focusing on **isometric pixel-art systems** and resource-management mechanics
-
-
+- Developing **BeeHealth**, a modular **medical management platform** with clinical records, diets, workouts, inventory, timelines, and role-based access  
+- Building a **scalable backend architecture** using **Next.js API Routes**, **MongoDB**, **Mongoose**, and **TypeScript**  
+- Designing **clean and maintainable APIs**, focused on data integrity, validation, and long-term extensibility  
+- Applying **SOLID principles** and **feature-isolated (vertical-slice) architecture** across the entire codebase  
+- Working with **TypeScript** as a first-class tool for type safety across frontend, backend, and API layers  
+- Learning **SQL and relational data modeling** using **PostgreSQL** and **Prisma**, focusing on schema design, relations, and migrations  
+- Gradually integrating **relational concepts** alongside MongoDB to choose the right database per use case  
+- Optimizing developer workflow with structured Git usage, code consistency, and production-ready patterns
 ---
 
 ## 🛠 Technologies
@@ -61,17 +59,6 @@ Currently, I am focused on building **scalable applications** with clean, modula
 * Visual Studio Code
 * npm
 * Vite
-
----
-
-## 📚 Current Focus
-
-- **Advanced React & Next.js patterns** (Context optimization, Zustand, modular architecture)  
-- **Building real-world e-commerce solutions** with Shopify (checkout, wishlist, cart, customer accounts)  
-- **Integrating APIs from scratch** (REST, GraphQL)  
-- **Clean Architecture & scalable project structure**  
-- **Internationalization (i18n)** and **UI animations with Framer Motion**  
-- **Game development basics in Godot (isometric resource-management games)**  
 
 ---
 

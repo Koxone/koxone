@@ -17,27 +17,47 @@ Currently, I am focused on building **scalable applications** with clean, modula
 
 ## 🛠 Technologies
 
-### **Frontend**
-- HTML5, CSS3 (Flexbox, Grid, Responsive Design)
-- JavaScript (ES6+)
-- React.js (Hooks, Context, Zustand, Routing)
-- Next.js (App Router & Pages Router)
-- Tailwind CSS v4
-- Astro
+### **Languages**
 
-### **E-Commerce & APIs**
-- Shopify Storefront & Admin API
-- Firebase (Authentication, Firestore, Hosting)
-- Clerk Authentication
-- REST APIs & GraphQL
+* JavaScript (ES2023+)
+* TypeScript
 
-### **Tools & Workflow**
-- Git & GitHub (Branches, Projects, Issues)
-- Vercel (Deployments, Custom Domains)
-- Figma (UI/UX Design)
-- Linux (Terminal & File Structure)
-- Visual Studio Code
-- npm, Vite, Gulp.js, Sass/SCSS
+### **Frontend Stack**
+
+* Next.js 16+ (App Router)
+* React 19+
+* Tailwind CSS v4
+
+### **Backend & APIs**
+
+* Next.js API Routes
+* Node.js
+* Zod (Schema validation)
+* TanStack Query (Server state management)
+
+### **Databases & Storage**
+
+* MongoDB
+* Mongoose
+* Vercel Blob Storage
+* Firebase Firestore
+* Cloudinary (Media Storage & CDN)
+
+### **Authentication & Security**
+
+* JWT (JSON Web Tokens)
+* SHA-256
+* Clerk (Authentication & User Management)
+
+### **Tooling & Workflow**
+
+* Git & GitHub (Branches, Issues, Projects)
+* Vercel (Deployments, Environments, Custom Domains)
+* Figma (UI/UX Design & Prototyping)
+* Linux (Terminal, File System, Dev Environment)
+* Visual Studio Code
+* npm
+* Vite
 
 ---
 

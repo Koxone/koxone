@@ -4,14 +4,17 @@ I am a passionate **Software Developer**, specializing in **modern web developme
 Currently, I am focused on building **scalable applications** with clean, modular architectures and real-world functionality.
 
 ---
-
 ## 🚀 What I'm Working On
 
-- Developing a **headless e-commerce platform** integrated with **Shopify Storefront API**, **Firebase**, and **Clerk authentication**  
-- Building **modular and reusable components** for scalable applications  
-- Implementing **i18n (English/Spanish)** and **responsive UI/UX with animations** using **Framer Motion**  
-- Designing **performance-focused apps** with Next.js (App Router & Pages Router), Tailwind CSS v4, and Vercel deployment  
-- Learning **Godot** for game development (isometric pixel-art projects)  
+- Building **MedTrack / BeeHealth**, a modular **medical management platform** with clinical records, diets, workouts, inventory, appointments, timelines, and role-based access  
+- Developing a **headless e-commerce platform** integrated with **Shopify Storefront API**, **Clerk authentication**, and custom cart / order flows  
+- Designing **highly modular, feature-isolated architecture** following SOLID principles and vertical-slice organization  
+- Implementing **i18n (English / Spanish)** with fully translated components and structured JSON dictionaries  
+- Creating **performance-focused UIs** with Next.js (App Router & Pages Router), Tailwind CSS v4, and optimized data fetching using TanStack Query  
+- Integrating **Cloudinary** for media handling and **Firebase Firestore** for specific real-time and auxiliary data use cases  
+- Adding **polished animations and transitions** using Framer Motion for modals, lists, and feedback states  
+- Learning **Godot** for game development, focusing on **isometric pixel-art systems** and resource-management mechanics
+
 
 ---
 

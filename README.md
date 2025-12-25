@@ -73,6 +73,10 @@ I am currently developing BeeHealth, a modular medical management platform, work
 <h2>Github stats:</h2> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=koxone&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Metrics](https://github.com/koxone/koxone/blob/main/github-metrics.svg)
+![Contributions](https://ghchart.rshah.org/koxone)
+![Snake](https://github.com/koxone/koxone/blob/output/github-contribution-grid-snake.svg)
+![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koxone&theme=tokyonight)
 
 
 </div>

@@ -73,7 +73,7 @@ I am currently developing BeeHealth, a modular medical management platform, work
 <h2>Github stats:</h2> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=koxone&show_icons=true&theme=tokyonight&hide_border=true)
-
+![Metrics](https://github.com/koxone/koxone/blob/main/github-metrics.svg)
 
 </div>
 

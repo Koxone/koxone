@@ -72,6 +72,8 @@ I am currently developing BeeHealth, a modular medical management platform, work
 
 <h2>Github stats:</h2> 
 
+![Metrics](https://github.com/koxone/koxone/blob/main/github-metrics.svg)
+
 ![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=koxone&theme=tokyonight)
 
 
